@@ -1,11 +1,14 @@
 ## Olá! eu sou o Gabriel Reginatto
 
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e pelo desenvolvimento de software. Tenho interesse em criar aplicações bem estruturadas, com foco em boas práticas e escalabilidade. Utilizo este GitHub para registrar meus estudos e a evolução do meu aprendizado.
+
 <div>
 <img align="center" alt="Gabriel-Java" height="70" width="40" src="https://devicon-website.vercel.app/api/java/original-wordmark.svg"></img>
 <img align="center" alt="Gabriel-Python" height="70" width="40" src="https://devicon-website.vercel.app/api/python/original.svg"></img>
 <img align="center" alt="Gabriel-PHP" height="70" width="40" src="https://devicon-website.vercel.app/api/php/original.svg"></img>
 <img align="center" alt="Gabriel-JavaScript" height="70" width="35" src="https://devicon-website.vercel.app/api/javascript/original.svg"></img>
-<img align="center" alt="Gabriel-PHP" height="70" width="40" src="https://devicon-website.vercel.app/api/mysql/original.svg"></img>  
+<img align="center" alt="Gabriel-PHP" height="70" width="40" src="https://devicon-website.vercel.app/api/mysql/original.svg"></img>
+<img align="center" alt="Gabriel-Git" height="70" width="40"src="https://devicon-website.vercel.app/api/git/plain-wordmark.svg"></img>  
 </div>
 
 ##
