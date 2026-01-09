@@ -2,6 +2,8 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e pelo desenvolvimento de software. Tenho interesse em criar aplicações bem estruturadas, com foco em boas práticas e escalabilidade. Utilizo este GitHub para registrar meus estudos e a evolução do meu aprendizado.
 
+##
+
 <div>
 <img align="center" alt="Gabriel-Java" height="70" width="40" src="https://devicon-website.vercel.app/api/java/original-wordmark.svg"></img>
 <img align="center" alt="Gabriel-Python" height="70" width="40" src="https://devicon-website.vercel.app/api/python/original.svg"></img>
