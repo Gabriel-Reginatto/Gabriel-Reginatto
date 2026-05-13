@@ -4,14 +4,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 
 ##
 
-<div>
-<img align="center" alt="Gabriel-Java" height="70" width="40" src="https://devicon-website.vercel.app/api/java/original-wordmark.svg"></img>
-<img align="center" alt="Gabriel-Python" height="70" width="40" src="https://devicon-website.vercel.app/api/python/original.svg"></img>
-<img align="center" alt="Gabriel-PHP" height="70" width="40" src="https://devicon-website.vercel.app/api/php/original.svg"></img>
-<img align="center" alt="Gabriel-JavaScript" height="70" width="35" src="https://devicon-website.vercel.app/api/javascript/original.svg"></img>
-<img align="center" alt="Gabriel-PHP" height="70" width="40" src="https://devicon-website.vercel.app/api/mysql/original.svg"></img>
-<img align="center" alt="Gabriel-Git" height="70" width="40"src="https://devicon-website.vercel.app/api/git/plain-wordmark.svg"></img>  
-</div>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,git,github,postgres,kafka,aws,rabbitmq,mysql)](https://skillicons.dev)
 
 ##
 
