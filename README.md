@@ -2,7 +2,7 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e pelo desenvolvimento de software. Tenho interesse em criar aplicações bem estruturadas, com foco em boas práticas e escalabilidade. Utilizo este GitHub para registrar meus estudos e a evolução do meu aprendizado.
 
-##
+## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,git,github,postgres,kafka,aws,rabbitmq,mysql)](https://skillicons.dev)
 
