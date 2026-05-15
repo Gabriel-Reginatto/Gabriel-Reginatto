@@ -4,7 +4,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,git,github,postgres,kafka,aws,rabbitmq,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,git,github,postgres,kafka,aws,docker,rabbitmq,mysql)](https://skillicons.dev)
 
 ##
 
